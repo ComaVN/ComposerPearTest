@@ -1,0 +1,21 @@
+{
+    "name" : "ComaVN/ComposerPearTest",
+    "license" : "beerware",
+    "type" : "project",
+    "description" : "Test case for requiring pear packages",
+    "authors" : [
+        {
+            "name" : "Roel Harbers"
+        }
+    ],
+    "minimum-stability" : "stable",
+    "repositories" : [
+        {
+            "type" : "pear",
+            "url" : "http://pear.php.net"
+        }
+    ],
+    "require" : {
+        "pear-pear/pear" : "*"
+    }
+}
