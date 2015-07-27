@@ -1,6 +1,6 @@
 {
-    "name" : "ComaVN/ComposerPearTest",
-    "license" : "beerware",
+    "name" : "comavn/composer-pear-test",
+    "license" : "Beerware",
     "type" : "project",
     "description" : "Test case for requiring pear packages",
     "authors" : [
